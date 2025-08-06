@@ -199,5 +199,3 @@ The application provides basic logging:
 ## Docker Hub
 
 The image is available on Docker Hub: [alyvusal/github-poller](https://hub.docker.com/r/alyvusal/github-poller)
-
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
